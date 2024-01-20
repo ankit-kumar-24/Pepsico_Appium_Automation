@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="JoyMobileAutomationSuite" verbose="1" configfailurepolicy="continue" parallel="methods">
+    <test name="SanitySuite">
+        <!-- <listeners>
+             <listener class-name="io.qameta.allure.testng.AllureTestNg" />
+         </listeners>-->
+        <classes>
+            <class name="com.joy.suite.android.LoginTestcases"></class>
+            <class name="com.joy.suite.ios.LoginTestcases"></class>
+        </classes>
+
+    </test>
+</suite>

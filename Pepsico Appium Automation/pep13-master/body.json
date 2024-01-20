@@ -1,0 +1,16 @@
+{
+  "id": 44051,
+  "parentId": 5,
+  "input": {
+    "name": "AutoScriptSetup",
+    "contentRole": {
+      "type": "object",
+      "id": 10187
+    },
+    "jsonData": "{\"title\":\"AutoScriptSetup\",\"body\":\"<p>AutoScriptSetupAutoScriptSetupAutoScriptSetup</p>\\n\",\"versionNumber\":2}",
+    "displayStart": "Fri, 12 Jan 2024 18:30:00 GMT",
+    "displayEnd": "Sat, 30 Mar 2024 18:30:00 GMT",
+    "activeStart": "Fri, 12 Jan 2024 18:30:00 GMT",
+    "activeEnd": "Wed, 28 Feb 2024 18:30:00 GMT"
+  }
+}
